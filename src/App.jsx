@@ -1,6 +1,7 @@
-""" + """import React from "react";
+import React from "react";
 import { motion } from "framer-motion";
-import { Phone, Mail, MapPin, Truck, Clock, ShieldCheck, Package, DollarSign, Instagram, Facebook, Send, MessageCircle, ArrowRight, CheckCircle2, Star, Globe, Sun, Moon, PlayCircle, CalendarClock, Search, PhoneCall, Image as ImageIcon, Megaphone } from "lucide-react";
+import { Phone, Mail, MapPin, Truck, Clock, ShieldCheck, Package, DollarSign, Instagram, Facebook, Send, MessageCircle, ArrowRight, CheckCircle2, Star, Globe, Sun, Moon, PlayCircle, Search, PhoneCall, Image as ImageIcon, Megaphone } from "lucide-react";
+
 
 /**
  * HAKA Multiservice LLC – Landing PRO (con integraciones listas)
